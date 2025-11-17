@@ -1,0 +1,4 @@
+<web-app xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         version="6.0">
+    <!-- Puedes dejarlo vacío si usas anotaciones -->
+</web-app>
