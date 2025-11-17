@@ -1,0 +1,1 @@
+Carpeta para tener el "modelo" de la aplicación

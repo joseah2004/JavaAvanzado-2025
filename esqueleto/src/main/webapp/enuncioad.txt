@@ -1,0 +1,13 @@
+modificar codigo
+desde la pagina princial , nos mostrara un formulario de login 
+si el usuario esta registrado
+nos mostrara un mensaje, por ejemplo con el id que tiene el usuario 
+usando jsp
+si no esta registrado mostrara otro mensaje destinto
+
+
+bbdd
+tabla: usuario
+id(pk , autoincrement)
+nombre(varchar , unique)
+pass (varchar)

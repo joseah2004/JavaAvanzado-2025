@@ -1,0 +1,3 @@
+USUARIO:uno_distinto
+EMAIL:dos
+COLOR:tres
